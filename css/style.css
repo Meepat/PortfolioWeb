@@ -371,12 +371,11 @@ input,textarea,select{
 text-align: center;
 position: relative;
 z-index: 1;
-max-width: 350px;
+max-width: 320px;
 margin: auto;
 background-color: #fdf9ff;
 padding: 30px;
-border: 1px solid #e8dfec;
-border-radius: 15px;
+border-radius: 20px;
 }
 
 .home .intro img{ 
